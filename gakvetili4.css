@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  
+  
+  
+  /* body { */
+    /* background-image: url("web_design_and_development.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;  */
+    /* margin: 0px; */
+  /* } */
+  
+  h1 {
+    background-color: blue;
+    border: 5px solid black;
+    /* margin-left: 20px; 
+    margin-right: 50px; */
+  }
+  
+  p {
+    background-color: brown;
+    border: 5px solid yellow;
+    /* margin-right: 50%; */
+    /* padding: 10px; */
+  }
+  
+  img {
+    width: 400px;
+    height: 300px;
+    /* margin-left: 50%;
+    margin-right: 45%; */
+  } 
+  
+  /*a {
+    color: yellow;
+    size: 160%;
+  } */
+  
+  
+  a:link {
+    background-color: blue;
+  }
+  
+  a:hover {
+    background-color: yellow;
+  
+  }
+  a:visited {
+    color: red;
+  }
+  
+  a:active {
+    color: aqua;
+  
+  }
+  
